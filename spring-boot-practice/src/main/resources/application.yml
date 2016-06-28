@@ -1,0 +1,10 @@
+server:
+  port: 8000
+
+info:
+  app:
+    name: haha
+security:
+  user:
+    name: admin
+    password: admin
